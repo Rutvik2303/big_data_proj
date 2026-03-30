@@ -1,0 +1,201 @@
+seller_id,shop_name,seller_type,email,contact_phone,province,city,join_date,status,fbs_standard,use_logistics,warehouse
+S0001,KhongSukSuk,Company,virginia@khongsuksuk.com,782718024,Nakhon Pathom,Nakhon Pathom,2021-12-29,Active,Standard,0,0
+S0002,KhongStarThong,Company,belinda@khongstarthong.com,877362143,Bangkok,Bangkok,2022-01-01,Active,Standard,0,0
+S0003,MongkolStar,Company,aaron@mongkolstar.com,898057956,Samut Prakan,Samut Prakan,2022-01-05,Active,FBS,1,1
+S0004,StarBaan,Company,matthew@starbaan.com,840611877,Samut Prakan,Samut Prakan,2022-01-03,Active,Standard,0,0
+S0005,MongkolSuk,Company,zachary@mongkolsuk.com,764393111,Samut Prakan,Samut Prakan,2022-01-11,Active,Standard,0,0
+S0006,FamilySabaiFamily,Individual,cody@gmail.com,788876837,Bangkok,Bangkok,2022-01-11,Active,Standard,0,0
+S0007,ThongThongMongkol,Company,randall@thongthongmongkol.com,769408512,Samut Prakan,Samut Prakan,2022-01-17,Active,Standard,0,0
+S0008,StarSuay,Company,donna@starsuay.com,702832777,Samut Prakan,Samut Prakan,2022-01-01,Active,Standard,0,0
+S0009,StarThong,Company,david@starthong.com,881662274,Pathum Thani,Pathum Thani,2022-01-18,Active,Standard,0,0
+S0010,SuayTaladThong,Company,thomas@suaytaladthong.com,696336946,Nakhon Pathom,Nakhon Pathom,2022-01-24,Active,Standard,0,0
+S0011,DeeSabaiThong,Company,stephanie@deesabaithong.com,897082332,Bangkok,Bangkok,2022-01-07,Active,Standard,0,0
+S0013,SabaiFamily,Individual,ashley@gmail.com,627582667,Samut Prakan,Samut Prakan,2022-01-12,Active,Standard,0,0
+S0012,StarMongkolKhong,Company,raymond@starmongkolkhong.com,655076321,Samut Prakan,Samut Prakan,2022-01-31,Active,Standard,0,0
+S0014,SuayFamilyTalad,Company,karen@suayfamilytalad.com,864004426,Samut Sakhon,Samut Sakhon,2022-02-06,Active,Standard,0,0
+S0015,SabaiStar,Individual,luis@gmail.com,763120451,Pathum Thani,Pathum Thani,2022-02-06,Active,FBS,1,1
+S0016,SuayMongkol,Company,joseph@suaymongkol.com,925514309,Samut Sakhon,Samut Sakhon,2022-01-01,Active,Standard,0,0
+S0017,TaladShop,Company,tiffany@taladshop.com,759640245,Samut Prakan,Samut Prakan,2022-02-09,Active,Standard,0,0
+S0018,ThongBaanBaan,Individual,anthony_S0018@gmail.com,935820825,Samut Sakhon,Samut Sakhon,2022-02-13,Active,Standard,0,0
+S0019,ThongDee,Company,cindy@thongdee.com,693315439,Samut Prakan,Samut Prakan,2022-02-14,Active,Standard,0,0
+S0020,MongkolShop,Company,chelsea@mongkolshop.com,852282341,Pathum Thani,Pathum Thani,2022-02-15,Active,Standard,0,0
+S0021,DeeThongThong,Company,monique@deethongthong.com,638214342,Samut Prakan,Samut Prakan,2022-01-05,Active,Standard,0,0
+S0022,SuayTalad,Company,timothy@suaytalad.com,954969940,Pathum Thani,Pathum Thani,2022-01-24,Active,Standard,0,0
+S0023,FamilySabai,Individual,sheila@gmail.com,676362525,Nakhon Pathom,Nakhon Pathom,2022-02-18,Active,Standard,0,0
+S0024,DeeTalad,Company,brian@deetalad.com,905590705,Pathum Thani,Pathum Thani,2022-02-19,Active,Standard,0,0
+S0025,FamilyFamilyThong,Company,kenneth@familyfamilythong.com,746161060,Samut Sakhon,Samut Sakhon,2022-02-20,Active,FBS,1,1
+S0026,FamilyBaanKhong,Company,michael@familybaankhong.com,924116295,Nakhon Pathom,Nakhon Pathom,2022-02-24,Active,Standard,0,0
+S0027,DeeSukStar,Company,jeffrey@deesukstar.com,915209223,Pathum Thani,Pathum Thani,2022-02-27,Suspended,Standard,0,0
+S0028,SuayStar,Company,derrick@suaystar.com,909370245,Nakhon Pathom,Nakhon Pathom,2022-02-28,Active,Standard,0,0
+S0029,TaladSuk,Individual,valerie@gmail.com,749334175,Samut Prakan,Samut Prakan,2022-02-28,Active,FBS,1,1
+S0030,SuayFamily,Company,allison@suayfamily.com,648985393,Samut Prakan,Samut Prakan,2022-03-02,Inactive,FBS,1,1
+S0031,ShopThongStar,Company,danielle@shopthongstar.com,777061995,Samut Prakan,Samut Prakan,2022-03-09,Active,FBS,1,1
+S0032,StarThongSuay,Company,rebecca@starthongsuay.com,619701623,Pathum Thani,Pathum Thani,2022-03-18,Active,FBS,1,1
+S0033,MongkolThongMongkol,Individual,kelsey@gmail.com,600617973,Samut Prakan,Samut Prakan,2022-03-18,Active,Standard,0,0
+S0034,ShopSukShop,Individual,susan@gmail.com,627708863,Bangkok,Bangkok,2022-03-25,Active,FBS,1,1
+S0035,ThongMongkol,Company,jacob@thongmongkol.com,835211784,Nakhon Pathom,Nakhon Pathom,2022-03-26,Active,Standard,0,0
+S0036,MongkolSuayBaan,Company,ryan@mongkolsuaybaan.com,981061753,Samut Prakan,Samut Prakan,2022-03-29,Active,FBS,1,1
+S0037,ThongDee,Company,william@thongdee.com,650041311,Samut Sakhon,Samut Sakhon,2022-04-05,Active,Standard,0,0
+S0038,SuayKhong,Company,charles@suaykhong.com,663064156,Samut Prakan,Samut Prakan,2022-04-06,Active,Standard,0,0
+S0039,FamilyStar,Company,melissa@familystar.com,978714985,Pathum Thani,Pathum Thani,2022-04-07,Active,FBS,1,1
+S0040,ShopFamilyFamily,Individual,michael_S0040@gmail.com,805936175,Samut Prakan,Samut Prakan,2022-04-09,Active,Standard,0,0
+S0041,SuaySabai,Individual,shelia@gmail.com,748309195,Samut Prakan,Samut Prakan,2022-04-09,Active,Standard,0,0
+S0042,ShopTaladThong,Company,sandra@shoptaladthong.com,751848023,Bangkok,Bangkok,2022-04-12,Inactive,Standard,0,0
+S0043,KhongSabaiBaan,Company,jeffrey@khongsabaibaan.com,839738307,Samut Prakan,Samut Prakan,2022-04-13,Active,Standard,0,0
+S0044,ShopSabaiSabai,Company,jeremiah@shopsabaisabai.com,772752899,Samut Prakan,Samut Prakan,2022-04-28,Inactive,Standard,0,0
+S0045,SuaySuk,Company,calvin@suaysuk.com,725392880,Samut Sakhon,Samut Sakhon,2022-02-02,Active,FBS,1,1
+S0046,DeeStarStar,Company,susan@deestarstar.com,807274450,Samut Sakhon,Samut Sakhon,2022-01-05,Active,Standard,0,0
+S0047,FamilyDee,Company,lisa@familydee.com,916850705,Pathum Thani,Pathum Thani,2022-05-07,Active,Standard,0,0
+S0048,KhongKhongFamily,Company,david@khongkhongfamily.com,845311394,Pathum Thani,Pathum Thani,2022-05-07,Active,FBS,1,1
+S0050,TaladThongBaan,Company,barry@taladthongbaan.com,948878398,Samut Sakhon,Samut Sakhon,2022-05-11,Active,Standard,0,0
+S0049,StarShop,Company,derrick@starshop.com,640173111,Samut Prakan,Samut Prakan,2022-05-11,Inactive,Standard,0,0
+S0051,KhongKhong,Company,ryan@khongkhong.com,804015990,Pathum Thani,Pathum Thani,2022-05-12,Active,FBS,1,1
+S0052,BaanKhongFamily,Company,brandy@baankhongfamily.com,619273182,Pathum Thani,Pathum Thani,2022-05-15,Active,FBS,1,1
+S0053,SukStar,Individual,michael_S0053@gmail.com,648522035,Samut Prakan,Samut Prakan,2022-05-26,Suspended,Standard,0,0
+S0054,SuayTaladStar,Individual,jessica@gmail.com,972589037,Samut Prakan,Samut Prakan,2022-05-28,Active,Standard,0,0
+S0055,KhongDeeTalad,Individual,andrew@gmail.com,831223208,Nakhon Pathom,Nakhon Pathom,2022-06-02,Active,Standard,0,0
+S0056,SukShop,Individual,bobby@gmail.com,691259276,Samut Prakan,Samut Prakan,2022-06-06,Active,FBS,1,1
+S0057,DeeKhong,Company,brittany@deekhong.com,966755085,Pathum Thani,Pathum Thani,2022-01-14,Inactive,Standard,0,0
+S0058,FamilySabai,Individual,anthony_S0058@gmail.com,846730032,Nakhon Pathom,Nakhon Pathom,2022-06-08,Active,Standard,0,0
+S0059,StarKhongFamily,Company,michael@starkhongfamily.com,963789573,Nakhon Pathom,Nakhon Pathom,2022-06-12,Active,FBS,1,1
+S0060,DeeSuay,Company,jonathan@deesuay.com,760607213,Pathum Thani,Pathum Thani,2022-06-15,Active,Standard,0,0
+S0061,StarFamilyThong,Individual,sherry@gmail.com,657259039,Bangkok,Bangkok,2022-06-17,Active,Standard,0,0
+S0062,ShopShop,Company,kevin@shopshop.com,975422599,Nakhon Pathom,Nakhon Pathom,2022-06-20,Active,Standard,0,0
+S0063,DeeTaladShop,Company,paul@deetaladshop.com,903830827,Bangkok,Bangkok,2022-06-24,Active,Standard,0,0
+S0064,KhongStar,Company,christopher@khongstar.com,723543871,Nakhon Pathom,Nakhon Pathom,2022-07-03,Active,Standard,0,0
+S0065,SukSukThong,Individual,kirk@gmail.com,937288135,Nonthaburi,Pak Kret,2022-01-31,Active,Standard,0,0
+S0066,KhongBaan,Company,richard@khongbaan.com,836665151,Nakhon Pathom,Nakhon Pathom,2022-01-06,Active,Standard,0,0
+S0067,SabaiStar,Company,theresa@sabaistar.com,758436219,Pathum Thani,Pathum Thani,2022-07-05,Active,FBS,1,1
+S0068,StarSukMongkol,Company,lynn@starsukmongkol.com,796418266,Pathum Thani,Pathum Thani,2022-01-18,Active,Standard,0,0
+S0069,TaladThongTalad,Individual,joan@gmail.com,781846367,Nakhon Pathom,Nakhon Pathom,2022-07-06,Inactive,Standard,0,0
+S0070,FamilyDee,Individual,angela@gmail.com,963098534,Samut Sakhon,Samut Sakhon,2022-07-07,Active,FBS,1,1
+S0071,SuayTaladShop,Company,miguel@suaytaladshop.com,607472523,Samut Sakhon,Samut Sakhon,2022-07-16,Active,Standard,0,0
+S0072,SabaiFamilyStar,Company,daniel@sabaifamilystar.com,913833311,Nakhon Pathom,Nakhon Pathom,2022-07-17,Active,Standard,0,0
+S0073,TaladSuayMongkol,Company,christopher@taladsuaymongkol.com,853122217,Samut Prakan,Samut Prakan,2022-07-21,Active,Standard,0,0
+S0074,BaanSuay,Company,michelle@baansuay.com,927535387,Nakhon Pathom,Nakhon Pathom,2022-01-05,Active,Standard,0,0
+S0075,BaanBaan,Individual,cheryl@gmail.com,948557775,Nakhon Pathom,Nakhon Pathom,2022-01-04,Active,FBS,1,1
+S0076,MongkolDeeDee,Company,alexandria@mongkoldeedee.com,662341708,Samut Prakan,Samut Prakan,2022-01-04,Active,Standard,0,0
+S0077,SukSabai,Company,kenneth@suksabai.com,843548136,Samut Sakhon,Samut Sakhon,2022-07-29,Active,Standard,0,0
+S0078,StarStarSuay,Individual,veronica@gmail.com,822739435,Samut Prakan,Samut Prakan,2022-07-30,Active,Standard,0,0
+S0079,KhongBaan,Company,justin@khongbaan.com,617564422,Nakhon Pathom,Nakhon Pathom,2022-07-30,Active,FBS,1,1
+S0080,SukFamilySuk,Company,katie@sukfamilysuk.com,653340607,Nakhon Pathom,Nakhon Pathom,2022-07-31,Active,Standard,0,0
+S0081,SabaiSuayShop,Company,christine@sabaisuayshop.com,748112723,Samut Sakhon,Samut Sakhon,2022-08-01,Active,Standard,0,0
+S0082,SuaySuay,Individual,amanda@gmail.com,955821257,Samut Prakan,Samut Prakan,2022-08-02,Active,Standard,0,0
+S0083,BaanBaan,Individual,jonathan@gmail.com,730765052,Nakhon Pathom,Nakhon Pathom,2022-01-07,Active,FBS,1,1
+S0084,TaladSuk,Company,louis@taladsuk.com,711216766,Pathum Thani,Pathum Thani,2022-08-11,Active,Standard,0,0
+S0085,TaladSuk,Company,thomas@taladsuk.com,919965205,Samut Prakan,Samut Prakan,2022-01-03,Active,FBS,1,1
+S0086,ThongSuay,Company,andrew@thongsuay.com,890025967,Samut Prakan,Samut Prakan,2022-08-20,Active,FBS,1,1
+S0087,TaladMongkolKhong,Individual,laurie@gmail.com,727738556,Nakhon Pathom,Nakhon Pathom,2022-08-21,Active,Standard,0,0
+S0088,DeeThongMongkol,Company,william@deethongmongkol.com,882440017,Samut Sakhon,Samut Sakhon,2022-08-26,Active,Standard,0,0
+S0089,StarFamily,Individual,damon@gmail.com,918722016,Samut Prakan,Samut Prakan,2022-08-28,Active,Standard,0,0
+S0090,FamilySuk,Individual,alexa@gmail.com,761936551,Pathum Thani,Pathum Thani,2022-09-05,Active,Standard,0,0
+S0091,BaanDeeSuay,Company,mia@baandeesuay.com,828853906,Samut Sakhon,Samut Sakhon,2022-09-05,Active,Standard,0,0
+S0092,FamilyKhong,Company,kevin@familykhong.com,643374059,Pathum Thani,Pathum Thani,2022-09-06,Active,Standard,0,0
+S0093,BaanDeeThong,Individual,michael_S0093@gmail.com,982334121,Pathum Thani,Pathum Thani,2022-09-08,Active,FBS,1,1
+S0094,ShopBaanThong,Company,tanya@shopbaanthong.com,925036034,Pathum Thani,Pathum Thani,2022-09-10,Inactive,Standard,0,0
+S0095,MongkolStarKhong,Company,rodney@mongkolstarkhong.com,986997981,Pathum Thani,Pathum Thani,2022-09-11,Active,FBS,1,1
+S0096,FamilyKhong,Individual,lisa@gmail.com,814066637,Samut Prakan,Samut Prakan,2022-01-01,Active,Standard,0,0
+S0097,StarThongThong,Company,james@starthongthong.com,800951329,Nakhon Pathom,Nakhon Pathom,2022-09-14,Active,Standard,0,0
+S0098,StarFamily,Company,robin@starfamily.com,645829643,Pathum Thani,Pathum Thani,2022-09-17,Active,Standard,0,0
+S0099,FamilyStar,Company,john@familystar.com,669855202,Nakhon Pathom,Nakhon Pathom,2022-09-18,Active,Standard,0,0
+S0100,BaanSabai,Company,steven@baansabai.com,959710635,Nakhon Pathom,Nakhon Pathom,2022-09-21,Active,Standard,0,0
+S0101,ShopKhong,Company,steven@shopkhong.com,987116504,Samut Sakhon,Samut Sakhon,2022-09-23,Active,Standard,0,0
+S0102,SuayBaan,Individual,brian@gmail.com,872415038,Pathum Thani,Pathum Thani,2022-09-24,Active,Standard,0,0
+S0103,MongkolFamily,Company,jessica@mongkolfamily.com,787966017,Pathum Thani,Pathum Thani,2022-09-24,Active,Standard,0,0
+S0104,MongkolThongSuk,Company,michael@mongkolthongsuk.com,901166165,Samut Sakhon,Samut Sakhon,2022-01-08,Active,Standard,0,0
+S0105,BaanBaan,Individual,david@gmail.com,696860142,Bangkok,Bangkok,2022-01-15,Active,Standard,0,0
+S0106,StarThongShop,Individual,christina@gmail.com,904041322,Samut Prakan,Samut Prakan,2022-01-07,Active,FBS,1,1
+S0107,DeeStarSuay,Individual,jeffery@gmail.com,715498586,Pathum Thani,Pathum Thani,2022-10-03,Suspended,Standard,0,0
+S0108,FamilyShopShop,Individual,john@gmail.com,920095203,Bangkok,Bangkok,2022-10-06,Active,Standard,0,0
+S0109,KhongMongkol,Individual,caroline@gmail.com,961834199,Bangkok,Bangkok,2022-10-12,Active,FBS,1,1
+S0110,ThongBaan,Individual,jordan@gmail.com,822363202,Samut Prakan,Samut Prakan,2022-10-16,Active,Standard,0,0
+S0111,SukSabaiShop,Company,david@suksabaishop.com,752066791,Pathum Thani,Pathum Thani,2022-10-17,Active,Standard,0,0
+S0112,SabaiThongSuk,Company,brent@sabaithongsuk.com,629410841,Pathum Thani,Pathum Thani,2022-01-31,Active,FBS,1,1
+S0113,SukSuay,Individual,laura_S0113@gmail.com,755395744,Pathum Thani,Pathum Thani,2022-10-24,Inactive,Standard,0,0
+S0114,MongkolFamilyFamily,Company,cody@mongkolfamilyfamily.com,804122316,Samut Prakan,Samut Prakan,2022-01-03,Suspended,Standard,0,0
+S0115,SabaiKhong,Company,george@sabaikhong.com,638695236,Nakhon Pathom,Nakhon Pathom,2022-02-03,Active,FBS,1,1
+S0116,KhongDeeDee,Individual,kathy@gmail.com,909108346,Bangkok,Bangkok,2022-11-01,Active,FBS,1,1
+S0117,SabaiStarFamily,Company,donna@sabaistarfamily.com,817450064,Pathum Thani,Pathum Thani,2022-11-02,Active,FBS,1,1
+S0118,SuaySuk,Company,gina@suaysuk.com,847012641,Pathum Thani,Pathum Thani,2022-11-06,Active,Standard,0,0
+S0119,MongkolKhongSuk,Company,lauren@mongkolkhongsuk.com,814989856,Pathum Thani,Pathum Thani,2022-11-08,Active,Standard,0,0
+S0120,ShopThong,Company,gregory@shopthong.com,718955593,Nakhon Pathom,Nakhon Pathom,2022-11-12,Active,Standard,0,0
+S0121,TaladDeeBaan,Company,megan@taladdeebaan.com,873778428,Pathum Thani,Pathum Thani,2022-11-19,Active,Standard,0,0
+S0122,KhongShop,Company,tammy@khongshop.com,726845872,Samut Prakan,Samut Prakan,2022-11-20,Active,Standard,0,0
+S0123,MongkolSuk,Individual,jamie@gmail.com,695104600,Pathum Thani,Pathum Thani,2022-01-03,Active,Standard,0,0
+S0124,FamilySabaiSabai,Company,michael@familysabaisabai.com,945203611,Pathum Thani,Pathum Thani,2022-11-23,Active,FBS,1,1
+S0125,KhongBaanMongkol,Company,kimberly@khongbaanmongkol.com,851750090,Pathum Thani,Pathum Thani,2022-11-30,Active,FBS,1,1
+S0126,BaanTaladBaan,Company,jessica@baantaladbaan.com,872374417,Nakhon Pathom,Nakhon Pathom,2022-12-02,Active,Standard,0,0
+S0127,ThongFamily,Company,sarah@thongfamily.com,797964490,Bangkok,Bangkok,2022-12-06,Active,Standard,0,0
+S0128,DeeKhongKhong,Company,robert@deekhongkhong.com,918944173,Pathum Thani,Pathum Thani,2022-12-06,Active,FBS,1,1
+S0129,FamilySabaiTalad,Individual,edward@gmail.com,906905846,Bangkok,Bangkok,2022-02-15,Active,Standard,0,0
+S0130,ThongFamily,Company,emily@thongfamily.com,633218191,Samut Prakan,Samut Prakan,2022-12-07,Active,Standard,0,0
+S0131,MongkolKhongShop,Company,sarah@mongkolkhongshop.com,870877683,Pathum Thani,Pathum Thani,2022-12-08,Active,Standard,0,0
+S0132,DeeStar,Company,pamela@deestar.com,881357163,Samut Prakan,Samut Prakan,2022-01-05,Active,FBS,1,1
+S0133,ShopSuay,Individual,kerry@gmail.com,964480437,Nakhon Pathom,Nakhon Pathom,2022-12-11,Active,Standard,0,0
+S0134,TaladBaan,Company,eric@taladbaan.com,777001379,Pathum Thani,Pathum Thani,2022-12-13,Active,FBS,1,1
+S0135,SabaiShop,Company,jason@sabaishop.com,988551545,Nakhon Pathom,Nakhon Pathom,2022-12-14,Active,FBS,1,1
+S0136,ShopSabai,Company,sarah@shopsabai.com,787808605,Samut Prakan,Samut Prakan,2022-12-21,Active,Standard,0,0
+S0139,BaanFamily,Company,sharon@baanfamily.com,609787446,Nakhon Pathom,Nakhon Pathom,2022-01-06,Active,FBS,1,1
+S0138,ThongShop,Company,stephen@thongshop.com,668608752,Nakhon Pathom,Nakhon Pathom,2022-12-22,Inactive,Standard,0,0
+S0137,SuayStarShop,Company,joseph@suaystarshop.com,980552363,Pathum Thani,Pathum Thani,2022-12-22,Active,Standard,0,0
+S0140,ThongSuayShop,Company,michele@thongsuayshop.com,703082025,Samut Prakan,Samut Prakan,2022-12-26,Inactive,FBS,1,1
+S0141,SuayMongkol,Company,daniel@suaymongkol.com,654299533,Nakhon Pathom,Nakhon Pathom,2023-01-09,Active,Standard,0,0
+S0142,BaanKhong,Company,joshua@baankhong.com,670356419,Pathum Thani,Pathum Thani,2023-01-25,Active,Standard,0,0
+S0143,MongkolSukStar,Company,david@mongkolsukstar.com,688873162,Pathum Thani,Pathum Thani,2023-02-01,Active,Standard,0,0
+S0144,DeeShopStar,Company,robert@deeshopstar.com,927810920,Samut Prakan,Samut Prakan,2023-02-17,Active,FBS,1,1
+S0145,TaladTaladSuk,Individual,amy@gmail.com,704161642,Samut Prakan,Samut Prakan,2023-04-02,Active,FBS,1,1
+S0146,StarSabaiFamily,Company,linda@starsabaifamily.com,805016203,Nakhon Pathom,Nakhon Pathom,2023-05-19,Active,Standard,0,0
+S0147,SuayTaladTalad,Company,kyle@suaytaladtalad.com,734219454,Samut Prakan,Samut Prakan,2023-06-05,Active,Standard,0,0
+S0148,BaanKhong,Individual,james@gmail.com,981930491,Pathum Thani,Pathum Thani,2023-06-16,Active,Standard,0,0
+S0149,ThongTalad,Company,sandra@thongtalad.com,841226417,Nakhon Pathom,Nakhon Pathom,2023-08-06,Active,Standard,0,0
+S0151,SuayShopShop,Company,patrick@suayshopshop.com,726582388,Nakhon Pathom,Nakhon Pathom,2023-08-15,Active,FBS,1,1
+S0150,TaladMongkol,Company,teresa@taladmongkol.com,842197494,Samut Prakan,Samut Prakan,2023-08-15,Active,Standard,0,0
+S0152,SuayShopDee,Individual,tony@gmail.com,678409624,Bangkok,Bangkok,2023-08-21,Active,Standard,0,0
+S0153,DeeSuay,Company,jacqueline@deesuay.com,973700801,Samut Prakan,Samut Prakan,2023-08-25,Active,FBS,1,1
+S0154,TaladFamily,Company,matthew@taladfamily.com,602819212,Pathum Thani,Pathum Thani,2023-11-19,Active,Standard,0,0
+S0155,DeeSuk,Company,chad@deesuk.com,894637032,Samut Prakan,Samut Prakan,2024-01-24,Active,Standard,0,0
+S0156,MongkolThongThong,Company,ashley@mongkolthongthong.com,728011233,Bangkok,Bangkok,2024-02-09,Active,FBS,1,1
+S0157,BaanBaanDee,Company,sarah@baanbaandee.com,920371833,Samut Prakan,Samut Prakan,2024-02-10,Active,Standard,0,0
+S0158,BaanSabai,Company,raymond@baansabai.com,756375457,Samut Prakan,Samut Prakan,2024-02-27,Active,Standard,0,0
+S0159,DeeShopSabai,Individual,michelle_S0159@gmail.com,881043629,Pathum Thani,Pathum Thani,2024-03-02,Active,Standard,0,0
+S0160,DeeSabaiSabai,Company,kenneth@deesabaisabai.com,897508067,Pathum Thani,Pathum Thani,2024-03-22,Suspended,FBS,1,1
+S0161,ShopFamily,Individual,melissa@gmail.com,736177446,Nakhon Pathom,Nakhon Pathom,2024-04-13,Suspended,Standard,0,0
+S0162,ShopDee,Company,deborah@shopdee.com,993494713,Samut Prakan,Samut Prakan,2024-05-03,Active,FBS,1,1
+S0163,TaladStar,Company,samantha@taladstar.com,671623731,Nakhon Pathom,Nakhon Pathom,2024-05-09,Active,Standard,0,0
+S0164,ShopShop,Individual,angel@gmail.com,973334263,Samut Prakan,Samut Prakan,2024-06-14,Active,Standard,0,0
+S0165,BaanTaladDee,Individual,michelle_S0165@gmail.com,619855522,Bangkok,Bangkok,2024-07-01,Active,Standard,0,0
+S0166,SukTaladKhong,Individual,corey@gmail.com,876694456,Nakhon Pathom,Nakhon Pathom,2024-08-26,Active,Standard,0,0
+S0167,SuaySabaiThong,Company,kristin@suaysabaithong.com,753604617,Samut Prakan,Samut Prakan,2024-10-06,Active,FBS,1,1
+S0168,KhongDeeBaan,Company,vanessa@khongdeebaan.com,666827009,Nakhon Pathom,Nakhon Pathom,2024-10-06,Active,FBS,1,1
+S0169,FamilyShopFamily,Company,laura@familyshopfamily.com,782018902,Samut Sakhon,Samut Sakhon,2024-10-08,Active,Standard,0,0
+S0170,FamilyFamily,Company,jennifer@familyfamily.com,743194581,Pathum Thani,Pathum Thani,2024-11-22,Suspended,FBS,1,1
+S0171,StarDee,Company,matthew@stardee.com,696881836,Pathum Thani,Pathum Thani,2024-12-01,Active,Standard,0,0
+S0172,ThongDeeBaan,Company,regina@thongdeebaan.com,839399201,Nakhon Pathom,Nakhon Pathom,2024-12-09,Active,Standard,0,0
+S0173,MongkolFamilyFamily,Individual,katrina@gmail.com,930095874,Bangkok,Bangkok,2025-02-17,Active,Standard,0,0
+S0174,ThongSuaySuay,Company,amy@thongsuaysuay.com,960339106,Pathum Thani,Pathum Thani,2025-04-02,Active,FBS,1,1
+S0175,ShopTaladStar,Company,christopher@shoptaladstar.com,676654141,Bangkok,Bangkok,2025-04-19,Active,Standard,0,0
+S0176,DeeDeeTalad,Company,sean@deedeetalad.com,794428115,Nakhon Pathom,Nakhon Pathom,2025-04-22,Active,FBS,1,1
+S0177,SuayDeeMongkol,Company,ronald@suaydeemongkol.com,799160055,Samut Prakan,Samut Prakan,2025-04-27,Active,Standard,0,0
+S0178,FamilyDeeMongkol,Company,jesse@familydeemongkol.com,813692902,Nakhon Pathom,Nakhon Pathom,2025-05-13,Active,FBS,1,1
+S0179,BaanSukMongkol,Company,kimberly@baansukmongkol.com,867922187,Samut Prakan,Samut Prakan,2025-05-28,Active,FBS,1,1
+S0180,KhongMongkolTalad,Company,james@khongmongkoltalad.com,715196616,Samut Prakan,Samut Prakan,2025-06-05,Active,FBS,1,1
+S0181,StarSuaySuk,Company,diana@starsuaysuk.com,639756387,Samut Prakan,Samut Prakan,2025-06-10,Active,Standard,0,0
+S0182,SukStarSuay,Company,bryan@sukstarsuay.com,958543756,Nakhon Pathom,Nakhon Pathom,2025-06-17,Active,Standard,0,0
+S0183,StarSabaiThong,Company,jay@starsabaithong.com,684559984,Nakhon Pathom,Nakhon Pathom,2025-06-25,Active,Standard,0,0
+S0184,TaladSabai,Company,marvin@taladsabai.com,707900513,Pathum Thani,Pathum Thani,2025-07-05,Active,Standard,0,0
+S0185,SukFamily,Company,eric@sukfamily.com,897437995,Nakhon Pathom,Nakhon Pathom,2025-07-13,Active,Standard,0,0
+S0186,FamilySuayMongkol,Individual,laura_S0186@gmail.com,766049191,Samut Prakan,Samut Prakan,2025-08-09,Active,FBS,1,1
+S0187,SuayStarSabai,Company,karen@suaystarsabai.com,908647360,Samut Sakhon,Samut Sakhon,2025-08-09,Active,Standard,0,0
+S0188,MongkolThong,Company,elizabeth@mongkolthong.com,841578217,Pathum Thani,Pathum Thani,2025-08-15,Active,Standard,0,0
+S0189,StarShopKhong,Company,shawn@starshopkhong.com,943486748,Pathum Thani,Pathum Thani,2025-08-17,Active,FBS,1,1
+S0190,TaladMongkol,Company,natasha@taladmongkol.com,629749547,Pathum Thani,Pathum Thani,2025-08-17,Active,Standard,0,0
+S0191,SabaiThong,Company,jonathan@sabaithong.com,773227168,Samut Prakan,Samut Prakan,2025-08-18,Active,FBS,1,1
+S0192,ShopSuay,Company,ashley@shopsuay.com,642337589,Nakhon Pathom,Nakhon Pathom,2025-09-12,Active,FBS,1,1
+S0193,SukSuayThong,Company,richard@suksuaythong.com,929868671,Nakhon Pathom,Nakhon Pathom,2025-09-21,Active,Standard,0,0
+S0194,SabaiSuk,Company,thomas@sabaisuk.com,682782416,Pathum Thani,Pathum Thani,2025-10-06,Inactive,Standard,0,0
+S0195,BaanStar,Company,tara@baanstar.com,781258135,Pathum Thani,Pathum Thani,2025-10-18,Active,Standard,0,0
+S0196,TaladDee,Company,alexandria@taladdee.com,944377849,Bangkok,Bangkok,2025-10-30,Active,FBS,1,1
+S0197,BaanTaladShop,Company,jennifer@baantaladshop.com,867382145,Bangkok,Bangkok,2025-11-07,Inactive,FBS,1,1
+S0198,BaanThongSuk,Company,suzanne@baanthongsuk.com,759683594,Samut Sakhon,Samut Sakhon,2025-11-10,Suspended,Standard,0,0
+S0199,DeeDeeFamily,Company,bradley@deedeefamily.com,849345487,Samut Prakan,Samut Prakan,2025-11-10,Active,Standard,0,0
+S0200,ShopMongkol,Company,george@shopmongkol.com,994170489,Nakhon Pathom,Nakhon Pathom,2025-12-21,Active,Standard,0,0
