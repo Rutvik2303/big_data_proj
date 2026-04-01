@@ -56,6 +56,8 @@ try:
 
 
   max_date = df_ord_itm_old.agg(max("order_date").alias("max_date")).collect()[0]["max_date"]
+  print('==========================================================')
+  print(max_date)
   df_ord_itm_inc = df_ord_itm_new.filter(col("order_date") >= max_date)
   if df_ord_itm_inc.count() > 0:
     df_ord_itm_inc.write.mode("append").parquet("/tmp/rutvik_proj/bronze/shopee_ord_itm")
