@@ -43,15 +43,15 @@ try:
 
   logger.info("Checking For New Data And Writing....")
   df_cus_inc=new_rec(df_cus_old,df_cus_new,col='customer_id')
-  if df_cus_inc>0:
+  if df_cus_inc.count()>0:
     df_cus_inc.write.mode("append").parquet("/tmp/rutvik_proj/bronze/shopee_cus")
 
   df_prd_inc=new_rec(df_prd_old,df_prd_new,col='product_id')
-  if df_prd_inc>0:
+  if df_prd_inc.count()>0:
     df_prd_inc.write.mode("append").parquet("/tmp/rutvik_proj/bronze/sshopee_prd")
 
   df_seller_inc=new_rec(df_seller_old,df_seller_new,col='seller_id')
-  if df_seller_inc>0:
+  if df_seller_inc.count()>0:
     df_seller_inc.write.mode("append").parquet("/tmp/rutvik_proj/bronze/shopee_seller")
 
 
