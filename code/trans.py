@@ -57,11 +57,11 @@ df_worst_seller=spark.sql("select shope_name,total_sales from(select first(shop_
 
 logger.info("Writing to hivr...")
 
-df_higest_sales_day.write.mode("overwrite").saveAsTable("rutvikdb.sale_per_day")
-df_total_com_prd.write.mode("overwrite").saveAsTable("rutvikdb.com_prd")
-df_total_ord_city.write.mode("overwrite").saveAsTable("rutvikdb.ord_city")
-df_cus_return.write.mode("overwrite").saveAsTable("rutvikdb.prd_return")
-df_worst_seller.write.mode("overwrite").saveAsTable("rutvikdb.worst_seller")
+df_higest_sales_day.write.mode("overwrite").option("path", "hdfs://ip-172-31-3-251.eu-west-2.compute.internal:8020/warehouse/tablespace/external/hive/rutvikdb.db/sale_per_day").saveAsTable("rutvikdb.sale_per_day")
+df_total_com_prd.write.mode("overwrite").option("path", "hdfs://ip-172-31-3-251.eu-west-2.compute.internal:8020/warehouse/tablespace/external/hive/rutvikdb.db/com_prd").saveAsTable("rutvikdb.com_prd")
+df_total_ord_city.write.mode("overwrite").option("path", "hdfs://ip-172-31-3-251.eu-west-2.compute.internal:8020/warehouse/tablespace/external/hive/rutvikdb.db/prd_return").saveAsTable("rutvikdb.ord_city")
+df_cus_return.write.mode("overwrite").option("path", "hdfs://ip-172-31-3-251.eu-west-2.compute.internal:8020/warehouse/tablespace/external/hive/rutvikdb.db/prd_return").saveAsTable("rutvikdb.prd_return")
+df_worst_seller.write.mode("overwrite").option("path", "hdfs://ip-172-31-3-251.eu-west-2.compute.internal:8020/warehouse/tablespace/external/hive/rutvikdb.db/prd_return").saveAsTable("rutvikdb.worst_seller")
 
 
 
